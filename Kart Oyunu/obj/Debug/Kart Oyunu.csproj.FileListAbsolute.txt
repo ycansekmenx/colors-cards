@@ -1,0 +1,90 @@
+C:\Users\yucas\source\repos\Kart Oyunu\Kart Oyunu\bin\Debug\Kart Oyunu.exe.config
+C:\Users\yucas\source\repos\Kart Oyunu\Kart Oyunu\bin\Debug\Kart Oyunu.exe
+C:\Users\yucas\source\repos\Kart Oyunu\Kart Oyunu\bin\Debug\Kart Oyunu.pdb
+C:\Users\yucas\source\repos\Kart Oyunu\Kart Oyunu\obj\Debug\Kart Oyunu.csproj.AssemblyReference.cache
+C:\Users\yucas\source\repos\Kart Oyunu\Kart Oyunu\obj\Debug\Kart Oyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\yucas\source\repos\Kart Oyunu\Kart Oyunu\obj\Debug\Kart_Oyunu.Form1.resources
+C:\Users\yucas\source\repos\Kart Oyunu\Kart Oyunu\obj\Debug\Kart_Oyunu.Form2.resources
+C:\Users\yucas\source\repos\Kart Oyunu\Kart Oyunu\obj\Debug\Kart_Oyunu.Form3.resources
+C:\Users\yucas\source\repos\Kart Oyunu\Kart Oyunu\obj\Debug\Kart_Oyunu.Properties.Resources.resources
+C:\Users\yucas\source\repos\Kart Oyunu\Kart Oyunu\obj\Debug\Kart Oyunu.csproj.GenerateResource.cache
+C:\Users\yucas\source\repos\Kart Oyunu\Kart Oyunu\obj\Debug\Kart Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\yucas\source\repos\Kart Oyunu\Kart Oyunu\obj\Debug\Kart Oyunu.exe
+C:\Users\yucas\source\repos\Kart Oyunu\Kart Oyunu\obj\Debug\Kart Oyunu.pdb
+C:\Users\yucas\source\repos\Kart Oyunu\Kart Oyunu\obj\Debug\Kart_Oyunu.Form4.resources
+C:\Users\yucas\source\repos\Kart Oyunu\Kart Oyunu\bin\Debug\Interop.WMPLib.dll
+C:\Users\yucas\source\repos\Kart Oyunu\Kart Oyunu\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\yucas\source\repos\Kart Oyunu\Kart Oyunu\obj\Debug\Interop.WMPLib.dll
+C:\Users\yucas\source\repos\Kart Oyunu\Kart Oyunu\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\yucas\source\repos\Kart Oyunu\Kart Oyunu\obj\Debug\Kart Oyunu.csproj.ResolveComReference.cache
+C:\Users\yucas\source\repos\Kart Oyunu\Kart Oyunu\obj\Debug\Kart_Oyunu.Form5.resources
+C:\Users\yucas\source\repos\Kart Oyunu\Kart Oyunu\obj\Debug\Kart_Oyunu.Form6.resources
+C:\Users\yucas\source\repos\Kart Oyunu\Kart Oyunu\obj\Debug\Kart_Oyunu.Form7.resources
+C:\Users\yucas\source\repos\Kart Oyunu\Kart Oyunu\obj\Debug\Kart_Oyunu.Form8.resources
+C:\Users\yucas\source\repos\Kart Oyunu\Kart Oyunu\obj\Debug\Kart_Oyunu.Form9.resources
+C:\Users\lenovo\Desktop\Kart Oyunu\Kart Oyunu\bin\Debug\Kart Oyunu.exe.config
+C:\Users\lenovo\Desktop\Kart Oyunu\Kart Oyunu\bin\Debug\Kart Oyunu.exe
+C:\Users\lenovo\Desktop\Kart Oyunu\Kart Oyunu\bin\Debug\Kart Oyunu.pdb
+C:\Users\lenovo\Desktop\Kart Oyunu\Kart Oyunu\bin\Debug\Interop.WMPLib.dll
+C:\Users\lenovo\Desktop\Kart Oyunu\Kart Oyunu\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\lenovo\Desktop\Kart Oyunu\Kart Oyunu\obj\Debug\Kart Oyunu.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Kart Oyunu\Kart Oyunu\obj\Debug\Kart Oyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\Desktop\Kart Oyunu\Kart Oyunu\obj\Debug\Interop.WMPLib.dll
+C:\Users\lenovo\Desktop\Kart Oyunu\Kart Oyunu\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\lenovo\Desktop\Kart Oyunu\Kart Oyunu\obj\Debug\Kart Oyunu.csproj.ResolveComReference.cache
+C:\Users\lenovo\Desktop\Kart Oyunu\Kart Oyunu\obj\Debug\Kart_Oyunu.Form1.resources
+C:\Users\lenovo\Desktop\Kart Oyunu\Kart Oyunu\obj\Debug\Kart_Oyunu.Form2.resources
+C:\Users\lenovo\Desktop\Kart Oyunu\Kart Oyunu\obj\Debug\Kart_Oyunu.Form3.resources
+C:\Users\lenovo\Desktop\Kart Oyunu\Kart Oyunu\obj\Debug\Kart_Oyunu.Form4.resources
+C:\Users\lenovo\Desktop\Kart Oyunu\Kart Oyunu\obj\Debug\Kart_Oyunu.Form5.resources
+C:\Users\lenovo\Desktop\Kart Oyunu\Kart Oyunu\obj\Debug\Kart_Oyunu.Form6.resources
+C:\Users\lenovo\Desktop\Kart Oyunu\Kart Oyunu\obj\Debug\Kart_Oyunu.Form7.resources
+C:\Users\lenovo\Desktop\Kart Oyunu\Kart Oyunu\obj\Debug\Kart_Oyunu.Form8.resources
+C:\Users\lenovo\Desktop\Kart Oyunu\Kart Oyunu\obj\Debug\Kart_Oyunu.Form9.resources
+C:\Users\lenovo\Desktop\Kart Oyunu\Kart Oyunu\obj\Debug\Kart_Oyunu.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Kart Oyunu\Kart Oyunu\obj\Debug\Kart Oyunu.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Kart Oyunu\Kart Oyunu\obj\Debug\Kart Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Kart Oyunu\Kart Oyunu\obj\Debug\Kart Oyunu.exe
+C:\Users\lenovo\Desktop\Kart Oyunu\Kart Oyunu\obj\Debug\Kart Oyunu.pdb
+C:\Users\yucas\Desktop\Kart Oyunu v5\Kart Oyunu\bin\Debug\Kart Oyunu.exe.config
+C:\Users\yucas\Desktop\Kart Oyunu v5\Kart Oyunu\bin\Debug\Kart Oyunu.exe
+C:\Users\yucas\Desktop\Kart Oyunu v5\Kart Oyunu\bin\Debug\Kart Oyunu.pdb
+C:\Users\yucas\Desktop\Kart Oyunu v5\Kart Oyunu\bin\Debug\Interop.WMPLib.dll
+C:\Users\yucas\Desktop\Kart Oyunu v5\Kart Oyunu\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\yucas\Desktop\Kart Oyunu v5\Kart Oyunu\obj\Debug\Kart Oyunu.csproj.AssemblyReference.cache
+C:\Users\yucas\Desktop\Kart Oyunu v5\Kart Oyunu\obj\Debug\Kart Oyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\yucas\Desktop\Kart Oyunu v5\Kart Oyunu\obj\Debug\Interop.WMPLib.dll
+C:\Users\yucas\Desktop\Kart Oyunu v5\Kart Oyunu\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\yucas\Desktop\Kart Oyunu v5\Kart Oyunu\obj\Debug\Kart Oyunu.csproj.ResolveComReference.cache
+C:\Users\yucas\Desktop\Kart Oyunu v5\Kart Oyunu\obj\Debug\Kart_Oyunu.Form1.resources
+C:\Users\yucas\Desktop\Kart Oyunu v5\Kart Oyunu\obj\Debug\Kart_Oyunu.Form3.resources
+C:\Users\yucas\Desktop\Kart Oyunu v5\Kart Oyunu\obj\Debug\Kart_Oyunu.Form4.resources
+C:\Users\yucas\Desktop\Kart Oyunu v5\Kart Oyunu\obj\Debug\Kart_Oyunu.Form7.resources
+C:\Users\yucas\Desktop\Kart Oyunu v5\Kart Oyunu\obj\Debug\Kart_Oyunu.Properties.Resources.resources
+C:\Users\yucas\Desktop\Kart Oyunu v5\Kart Oyunu\obj\Debug\Kart Oyunu.csproj.GenerateResource.cache
+C:\Users\yucas\Desktop\Kart Oyunu v5\Kart Oyunu\obj\Debug\Kart Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\yucas\Desktop\Kart Oyunu v5\Kart Oyunu\obj\Debug\Kart Oyunu.exe
+C:\Users\yucas\Desktop\Kart Oyunu v5\Kart Oyunu\obj\Debug\Kart Oyunu.pdb
+C:\Users\yucas\Desktop\Kart Oyunu v5\Kart Oyunu\obj\Debug\kart_karma.Kart.resources
+C:\Users\yucas\Desktop\Kart Oyunu\Kart Oyunu\bin\Debug\Kart Oyunu.exe.config
+C:\Users\yucas\Desktop\Kart Oyunu\Kart Oyunu\bin\Debug\Kart Oyunu.exe
+C:\Users\yucas\Desktop\Kart Oyunu\Kart Oyunu\bin\Debug\Kart Oyunu.pdb
+C:\Users\yucas\Desktop\Kart Oyunu\Kart Oyunu\bin\Debug\Interop.WMPLib.dll
+C:\Users\yucas\Desktop\Kart Oyunu\Kart Oyunu\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\yucas\Desktop\Kart Oyunu\Kart Oyunu\obj\Debug\Kart Oyunu.csproj.AssemblyReference.cache
+C:\Users\yucas\Desktop\Kart Oyunu\Kart Oyunu\obj\Debug\Kart Oyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\yucas\Desktop\Kart Oyunu\Kart Oyunu\obj\Debug\Interop.WMPLib.dll
+C:\Users\yucas\Desktop\Kart Oyunu\Kart Oyunu\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\yucas\Desktop\Kart Oyunu\Kart Oyunu\obj\Debug\Kart Oyunu.csproj.ResolveComReference.cache
+C:\Users\yucas\Desktop\Kart Oyunu\Kart Oyunu\obj\Debug\Kart_Oyunu.Form1.resources
+C:\Users\yucas\Desktop\Kart Oyunu\Kart Oyunu\obj\Debug\Kart_Oyunu.Form3.resources
+C:\Users\yucas\Desktop\Kart Oyunu\Kart Oyunu\obj\Debug\Kart_Oyunu.Form4.resources
+C:\Users\yucas\Desktop\Kart Oyunu\Kart Oyunu\obj\Debug\Kart_Oyunu.Form7.resources
+C:\Users\yucas\Desktop\Kart Oyunu\Kart Oyunu\obj\Debug\kart_karma.Kart.resources
+C:\Users\yucas\Desktop\Kart Oyunu\Kart Oyunu\obj\Debug\Kart_Oyunu.Properties.Resources.resources
+C:\Users\yucas\Desktop\Kart Oyunu\Kart Oyunu\obj\Debug\Kart Oyunu.csproj.GenerateResource.cache
+C:\Users\yucas\Desktop\Kart Oyunu\Kart Oyunu\obj\Debug\Kart Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\yucas\Desktop\Kart Oyunu\Kart Oyunu\obj\Debug\Kart Oyunu.exe
+C:\Users\yucas\Desktop\Kart Oyunu\Kart Oyunu\obj\Debug\Kart Oyunu.pdb
+C:\Users\yucas\Desktop\Kart Oyunu\Kart Oyunu\obj\Debug\Kart_Oyunu.lose.resources
+C:\Users\yucas\Desktop\Kart Oyunu\Kart Oyunu\obj\Debug\Kart_Oyunu.win.resources
